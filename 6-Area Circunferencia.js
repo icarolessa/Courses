@@ -1,4 +1,4 @@
-// Faça um Programa que peça o raio de um círculo, calcule e mostre sua área
+// Calculando área de uma circunferência
 
 const raioCirculo = 5.5
 const areaCirculo = (Math.PI * Math.pow(raioCirculo, 2)).toFixed(2)

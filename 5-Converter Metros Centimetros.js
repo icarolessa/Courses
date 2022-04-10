@@ -1,4 +1,4 @@
-// Faça um Programa que converta metros para centímetros
+// Convertendo Metros em Centímetros
 
 const medidaMetro = 1
 const medidaCentrimetro = medidaMetro * 100

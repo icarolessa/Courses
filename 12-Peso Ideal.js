@@ -1,6 +1,7 @@
-// Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula:
-// pesoIdeal = (72.7*altura) - 58
- 
+/* Calculando peso ideal
+ * Fórmula: pesoIdeal = (72.7*altura) - 58
+ */
+
 const altura = 1.56
 const pesoIdeal = ((72.7 * altura) - 58).toFixed(2)
 

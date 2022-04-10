@@ -1,8 +1,5 @@
-// Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
-//      o produto do dobro do primeiro com metade do segundo .
-//      a soma do triplo do primeiro com o terceiro.
-//      o terceiro elevado ao cubo.
-
+/* Calculando o produto, soma e potência entre 3 numeros
+ */
 const numInt1 = 4
 const numInt2 = 20
 const numFlo1 = 10.4

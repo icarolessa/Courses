@@ -1,4 +1,4 @@
-// Faça um programa que peça um número e então mostre a mensagem: "O número informado foi [número]"
+// Solicitando um numero pelo navegador
 
 // o prompt só funciona no navegador
 let primeiroNumero = prompt("Digite um número: ");

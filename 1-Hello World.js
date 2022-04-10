@@ -1,2 +1,2 @@
-// Faça um Programa que mostre a mensagem "Alo mundo" na tela
+// Imprimindo Hello World no JS
 console.log('Alo mundo')

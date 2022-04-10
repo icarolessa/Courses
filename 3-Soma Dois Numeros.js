@@ -1,6 +1,6 @@
-// Faça um programa que solicite dois números e imprima a soma
-// adaptei o código para rodar no console
-// mas no navegador utilizei o método prompt()
+/**
+ * Imprimindo soma entre dois numeros
+ */
 const primeiroNumero = 2
 const segundoNumero = 45
 
