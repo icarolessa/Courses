@@ -1,1 +1,0 @@
-const myList = [["Relogio", 14], ["T-Shirt", 10], ["Calças", 22], ["Cuecas", 33], ["Camiseta", 43]];

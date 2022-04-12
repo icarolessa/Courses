@@ -1,1 +1,0 @@
-let quotient = 66 / 33;
