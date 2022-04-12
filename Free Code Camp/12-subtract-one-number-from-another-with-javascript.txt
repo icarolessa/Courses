@@ -1,1 +1,0 @@
-let difference = 45 - 33;
