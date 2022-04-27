@@ -8,7 +8,7 @@ function orbitalPeriod(arr) {
     const c = Math.pow(earthRadius + obj.avgAlt, 3);
     const b = Math.sqrt(c / GM);
     const orbPeriod = Math.round(a * b);
-    // create new object
+    
     return {name: obj.name, orbitalPeriod: orbPeriod};
   };
 

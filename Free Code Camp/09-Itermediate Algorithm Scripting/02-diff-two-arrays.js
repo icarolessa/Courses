@@ -3,7 +3,6 @@ function diffArray(arr1, arr2) {
   let test = []
   let newArray = []
   let sizeArray = conArr.length - 1
-  console.log(sizeArray)
 
   for(let i = 0; i <= sizeArray; i++){
     if(!arr1.includes(conArr[i]) || !arr2.includes(conArr[i])){
