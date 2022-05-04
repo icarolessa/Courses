@@ -1,0 +1,29 @@
+https://boilerplate-npm-1.icarold.repl.co/
+
+{
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.18.1",
+		"moment": "~2.10.2"
+	},
+	"version": "0.0.1",
+	"author": {
+		"name": "Icaro Lessa",
+		"prof": "Back-end"
+	},
+	"description": "Pt-Br: Esse projeto tem como objetivo criar um arquivo .json para capacitação do curso free code camp. Servindo como base para a criação de outros projetos. [En: This project aims to create a .json file to enable an open source course. Serving as a basis for the creation of other projects.]",
+	"keywords": [
+		"freecodecamp",
+		"nodejs",
+		"json"
+	],
+	"license": "BSD",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
